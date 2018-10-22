@@ -1,8 +1,5 @@
 Datascience05
 ==============================
-
-World Wide Products Inc.
-
 World Wide Products Inc.
   Shipping and delivering to a place near you
 1. Set up a data science project structure in a new git repository in your GitHub account
