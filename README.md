@@ -16,6 +16,7 @@ Requirements
 You will need to install "fbprophet" to replicate the results.
 
 Steps with pip:
+
 $ conda install numpy cython matplotlib scipy pandas -c conda-forge
 $ pip install pystan
 $ pip install fbprophet
