@@ -11,6 +11,8 @@ https://www.kaggle.com/felixzhao/productdemandforecasting
 6. Document your process and results
 7. Commit your notebook, source code, visualizations and other supporting files to the git repository in GitHub
 
+Requirements
+==============================
 You will need to install "fbprophet" to replicate the results.
 
 Steps with pip:
