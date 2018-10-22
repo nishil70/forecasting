@@ -10,3 +10,13 @@ https://www.kaggle.com/felixzhao/productdemandforecasting
 5. Build one or more forecasting models to determine the demand for a particular product using the other columns as features
 6. Document your process and results
 7. Commit your notebook, source code, visualizations and other supporting files to the git repository in GitHub
+
+You will need to install "fbprophet" to replicate the results.
+
+Steps with pip:
+$ conda install numpy cython matplotlib scipy pandas -c conda-forge
+$ pip install pystan
+$ pip install fbprophet
+
+Steps with Conda:
+ conda install -c conda-forge fbprophet 
